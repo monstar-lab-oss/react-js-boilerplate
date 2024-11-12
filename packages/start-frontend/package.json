@@ -22,7 +22,7 @@
     "degit": "2.8.4",
     "fs-extra": "11.2.0",
     "gradient-string": "2.0.2",
-    "inquirer": "8.2.3",
+    "inquirer": "12.1.0",
     "meow": "7.1.1",
     "picocolors": "1.1.0"
   },
