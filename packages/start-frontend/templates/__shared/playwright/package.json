@@ -4,7 +4,7 @@
     "test:e2e": "playwright test"
   },
   "devDependencies": {
-    "@playwright/test": "1.44.0",
+    "@playwright/test": "1.49.0",
     "@types/node": "18.19.43"
   }
 }
