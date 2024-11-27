@@ -4,7 +4,7 @@
   "main": "index.js",
   "dependencies": {
     "eslint": "8.57.0",
-    "eslint-config-turbo": "2.1.1",
+    "eslint-config-turbo": "2.3.3",
     "@typescript-eslint/parser": "8.5.0"
   }
 }
