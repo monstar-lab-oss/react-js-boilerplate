@@ -3,9 +3,9 @@
     "storybook": "storybook dev -p 6006 --ci --disable-telemetry"
   },
   "devDependencies": {
-    "@storybook/addon-essentials": "8.2.8",
-    "@storybook/react": "8.2.8",
-    "@storybook/react-vite": "8.2.8",
-    "storybook": "8.2.8"
+    "@storybook/addon-essentials": "8.4.7",
+    "@storybook/react": "8.4.7",
+    "@storybook/react-vite": "8.4.7",
+    "storybook": "8.4.7"
   }
 }
