@@ -4,6 +4,6 @@
   "main": "./server.ts",
   "types": "./server.ts",
   "dependencies": {
-    "msw": "1.0.0"
+    "msw": "2.6.8"
   }
 }
